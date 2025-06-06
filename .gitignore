@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# ReSharper
+*.DotSettings.user
+
+# File-based indexes
+*.vsidx
+*.VC.db
+*.VC.VC.opendb
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+*.bak

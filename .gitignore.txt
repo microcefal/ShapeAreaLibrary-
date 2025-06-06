@@ -1,0 +1,17 @@
+# .NET / Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.log
+*.vscode/
+bin/
+obj/
+TestResults/
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+
+# OS-specific
+.DS_Store
+Thumbs.db
